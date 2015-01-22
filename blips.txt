@@ -1,3 +1,10 @@
 Did you know that your password could contain multiple words?
+Did you know your password could contain special characters?
 Never write down your password on a piece of paper.
 Remember to logoff from the websites into which you login.
+Passwords shorter than 6 characters are easy to crack!
+Never give out your password to anyone!
+Do not use a publically discoverable fact as a security question!
+Remember to change your password at least once every 3 months!
+Reusing password is bad!
+Do not use the same password across multiple websites!
